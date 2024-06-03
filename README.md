@@ -52,3 +52,18 @@ Any kind of contributions are welcome.
 3. **Commit** changes to **development** branch.
 4. **Push** your work back up to your fork.
 5. Submit a **Pull request** so that I can review your changes
+   
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+- **Name:** Akanksha Bhayekar
+- **Email:** [akankshabhayekar@gmail.com](mailto:akankshabhayekar@gmail.com)
+- **GitHub:** [akankshabhayekar](https://github.com/akankshabhayekar)
+
+Thank you for visiting the Frontend Project repository!
+
